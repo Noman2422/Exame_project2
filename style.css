@@ -1,0 +1,22 @@
+
+.main_section{
+    display: flex;
+    margin: 100px;
+    padding: 10px;
+}
+.color{
+    color: #dc1;
+    background-color: #dc143c;
+  margin: o 20px;
+}
+.para{
+    text-align: center;
+}
+.photo{
+    display: flex;
+    margin: 100px;
+   
+}
+.photo_size{
+   width: 100%;
+}
