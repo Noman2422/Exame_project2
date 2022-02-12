@@ -1,4 +1,7 @@
 
+.top-pat{
+    margin: 100px;
+}
 .main_section{
     display: flex;
     margin: 100px;
@@ -27,4 +30,27 @@
     padding: 10px;
    
     width: 300px;
+}
+.right{
+    text-align: right;
+    
+}
+.arrow{
+    margin-right: 25px;
+}
+.copyright{
+    text-align: center;
+    background-color: hsl(278, 89%, 4%);
+    height: 150px;
+    
+}
+.product{
+    color: #fff;
+    padding-top: 25px;
+}
+h6{
+    color: #fff;
+}
+.section-last{
+    margin: 0px 110px;
 }
