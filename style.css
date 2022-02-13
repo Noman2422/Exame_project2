@@ -54,3 +54,8 @@ h6{
 .section-last{
     margin: 0px 110px;
 }
+.center{
+    margin: 115px;
+    text-align: center;
+    font-weight: 700;
+}
