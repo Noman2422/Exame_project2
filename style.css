@@ -1,15 +1,23 @@
 
+body{
+    margin: 0px;
+    padding: 0px;
+}
 .top-pat{
     margin: 100px;
+    padding-left: 120px;
 }
 .main_section{
     display: flex;
     margin: 100px;
     padding: 10px;
 }
+.picture_baner img{
+    padding-left: 115px;
+}
 .color{
    text-decoration: none;
-   background-color: red;
+   background-color: rgb(252, 76, 76);
    color: #fff;
    padding: 10px 30px;
    border-radius: 20px;
@@ -21,7 +29,7 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-gap: 15px;
-    margin: 100px;
+    margin: 115px;
     
 }
 .parindip{
@@ -33,10 +41,17 @@
 }
 .right{
     text-align: right;
+    margin-right: 20px;
+    
+}
+.somor{
+    margin-right: 115px;
+    padding-bottom: 80px;
     
 }
 .arrow{
     margin-right: 25px;
+    color: #dc143c;
 }
 .copyright{
     text-align: center;
@@ -59,3 +74,11 @@ h6{
     text-align: center;
     font-weight: 700;
 }
+.baner{
+    padding-left: 115px;
+}
+.picture_baner {
+   padding-right: 100px;
+}
+
+ 
